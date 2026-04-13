@@ -21,7 +21,7 @@ let diferencias = [
 {x:32.2, y:20.8, encontrada:false},
 {x:42.9, y:44.2, encontrada:false},
 {x:53.7, y:46.7, encontrada:false},
-{x:35.8, y:89.3, encontrada:false},
+{x:35.8, y:89.3, encontrada:false},//ya esta
 {x:42.8, y:88.3, encontrada:false},//Ya esta
 {x:56, y:90.6, encontrada:false},//Ya esta
 {x:74.2, y:68.9, encontrada:false},
@@ -41,10 +41,10 @@ let diferencias = [
 {x:66.2, y:4.7, encontrada:false},
 {x:66.2, y:18.7, encontrada:false},
 {x:75.1, y:18.7, encontrada:false},
-{x:55.5, y:7, encontrada:false},
-{x:49.7, y:7, encontrada:false},
-{x:49.7, y:18.7, encontrada:false},
-{x:51.9, y:28, encontrada:false}
+{x:55.5, y:7, encontrada:false},//Arreglar este
+{x:46.3, y:9, encontrada:false},//Arreglar este
+{x:46.7, y:18.7, encontrada:false},//Arreglar este
+{x:50.9, y:28, encontrada:false}
 ];
 
 let encontradas = 0;
